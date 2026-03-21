@@ -1,0 +1,14 @@
+# Entornos virtuales y caché de Python
+venv/
+.env/
+__pycache__/
+
+# No subir los resultados pesados de trRosetta (matrices crudas)
+resultados_trRosetta/*.npz
+
+# No subir los alineamientos generados (ya que se pueden recrear con el script)
+trRosetta/msa/
+
+# Archivos de sistema y logs
+*.log
+.DS_Store
