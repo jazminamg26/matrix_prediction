@@ -1,0 +1,8 @@
+2026-03-22 14:02:43,286 Running colabfold 1.6.1
+2026-03-22 14:02:43,295 WARNING: no GPU detected, will be using CPU
+2026-03-22 14:02:45,482 Found 4 citations for tools or databases
+2026-03-22 14:02:45,483 Query 1/1: HCAQMHVCPHSPYKYDKFQHCHYRQM (length 26)
+2026-03-22 14:02:47,637 Sleeping for 5s. Reason: PENDING
+2026-03-22 14:02:53,479 Sleeping for 9s. Reason: RUNNING
+2026-03-22 14:03:04,188 Saved /home/biocomp/Documents/Jazmin/results_trRosetta/msa/HCAQMHVCPHSPYKYDKFQHCHYRQM/HCAQMHVCPHSPYKYDKFQHCHYRQM.pickle
+2026-03-22 14:03:04,487 Done
