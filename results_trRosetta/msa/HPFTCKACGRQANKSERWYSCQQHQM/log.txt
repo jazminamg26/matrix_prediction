@@ -1,0 +1,28 @@
+2026-03-23 03:21:11,560 Running colabfold 1.6.1
+2026-03-23 03:21:11,571 WARNING: no GPU detected, will be using CPU
+2026-03-23 03:21:13,928 Found 4 citations for tools or databases
+2026-03-23 03:21:13,928 Query 1/1: HPFTCKACGRQANKSERWYSCQQHQM (length 26)
+2026-03-23 03:21:16,370 Sleeping for 8s. Reason: RATELIMIT
+2026-03-23 03:21:29,570 Sleeping for 7s. Reason: RATELIMIT
+2026-03-23 03:21:37,349 Sleeping for 9s. Reason: RATELIMIT
+2026-03-23 03:21:47,092 Sleeping for 6s. Reason: RATELIMIT
+2026-03-23 03:21:53,927 Sleeping for 7s. Reason: RATELIMIT
+2026-03-23 03:22:02,190 Sleeping for 5s. Reason: RATELIMIT
+2026-03-23 03:22:08,050 Sleeping for 7s. Reason: RATELIMIT
+2026-03-23 03:22:16,871 Sleeping for 10s. Reason: RATELIMIT
+2026-03-23 03:22:27,690 Sleeping for 9s. Reason: RATELIMIT
+2026-03-23 03:22:37,468 Sleeping for 10s. Reason: RATELIMIT
+2026-03-23 03:22:49,399 Sleeping for 7s. Reason: RATELIMIT
+2026-03-23 03:22:57,398 Sleeping for 7s. Reason: RATELIMIT
+2026-03-23 03:23:06,730 Sleeping for 6s. Reason: RATELIMIT
+2026-03-23 03:23:14,607 Sleeping for 6s. Reason: RATELIMIT
+2026-03-23 03:23:21,993 Sleeping for 9s. Reason: RATELIMIT
+2026-03-23 03:23:31,856 Sleeping for 6s. Reason: RATELIMIT
+2026-03-23 03:23:38,885 Sleeping for 5s. Reason: RATELIMIT
+2026-03-23 03:23:44,959 Sleeping for 6s. Reason: RATELIMIT
+2026-03-23 03:23:51,820 Sleeping for 7s. Reason: RATELIMIT
+2026-03-23 03:23:59,761 Sleeping for 9s. Reason: RATELIMIT
+2026-03-23 03:24:09,744 Sleeping for 10s. Reason: RATELIMIT
+2026-03-23 03:24:22,726 Sleeping for 10s. Reason: RATELIMIT
+2026-03-23 03:24:36,679 Sleeping for 8s. Reason: RATELIMIT
+2026-03-23 03:24:45,759 Sleeping for 10s. Reason: RATELIMIT

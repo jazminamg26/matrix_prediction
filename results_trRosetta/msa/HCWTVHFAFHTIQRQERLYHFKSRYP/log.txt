@@ -1,5 +1,0 @@
-2026-03-22 23:36:07,734 Running colabfold 1.6.1
-2026-03-22 23:36:07,744 WARNING: no GPU detected, will be using CPU
-2026-03-22 23:36:10,036 Found 4 citations for tools or databases
-2026-03-22 23:36:10,036 Query 1/1: HCWTVHFAFHTIQRQERLYHFKSRYP (length 26)
-2026-03-22 23:36:12,910 Sleeping for 9s. Reason: RATELIMIT
