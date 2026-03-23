@@ -1,0 +1,6 @@
+2026-03-22 23:36:08,994 Running colabfold 1.6.1
+2026-03-22 23:36:09,004 WARNING: no GPU detected, will be using CPU
+2026-03-22 23:36:11,166 Found 4 citations for tools or databases
+2026-03-22 23:36:11,166 Query 1/1: HPAYLKAWMKTASHQDRFSHVKNRNF (length 26)
+2026-03-22 23:36:17,229 Timeout while submitting to MSA server. Retrying...
+2026-03-22 23:36:17,906 Sleeping for 5s. Reason: RATELIMIT
