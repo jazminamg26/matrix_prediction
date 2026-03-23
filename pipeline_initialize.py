@@ -123,8 +123,8 @@ def main():
     generate_initial_population_by_position(
         fasta_dir=FASTA_DIR,
         pop_dir=POPULATION_DIR,
-        population_size=200,
-        seed=42
+        population_size=50,
+        seed=26
     )
 
     print("\n" + "="*50)
