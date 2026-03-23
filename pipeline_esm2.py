@@ -27,7 +27,7 @@ def ejecutar_pipeline_esm2(fasta_filename):
     PYTHON_ESMFOLD = "/home/biocomp/anaconda3/envs/esmfold/bin/python"
     
     # Ruta al script motor que acabamos de guardar en la carpeta esm2/
-    SCRIPT_MOTOR = os.path.join("esm2", "generar_matriz_esm2.py")
+    SCRIPT_MOTOR = os.path.join("esm2", "get_contact_map.py")
 
     try:
         print(f"\nGenerando matriz de contactos con el modelo de lenguaje...")
