@@ -1,7 +1,0 @@
-2026-03-22 14:00:37,589 Running colabfold 1.6.1
-2026-03-22 14:00:37,598 WARNING: no GPU detected, will be using CPU
-2026-03-22 14:00:39,723 Found 4 citations for tools or databases
-2026-03-22 14:00:39,724 Query 1/1: KVCNGHMVVHQITRYDRGYRMHYKNM (length 26)
-2026-03-22 14:00:41,835 Sleeping for 7s. Reason: PENDING
-2026-03-22 14:00:50,468 Saved /home/biocomp/Documents/Jazmin/results_trRosetta/msa/KVCNGHMVVHQITRYDRGYRMHYKNM/KVCNGHMVVHQITRYDRGYRMHYKNM.pickle
-2026-03-22 14:00:50,772 Done

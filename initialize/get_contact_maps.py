@@ -30,7 +30,7 @@ def generate_all_contact_maps(input_dir, output_dir, threshold=8.0):
             with open(output_path, 'w') as f:
                 f.write('\n'.join(lines))
 
-            print(f"✅ Processed map: {file_name}")
+            print(f"Processed map: {file_name}")
 
         except Exception as e:
             print(f"Error processing {file_name}: {e}")

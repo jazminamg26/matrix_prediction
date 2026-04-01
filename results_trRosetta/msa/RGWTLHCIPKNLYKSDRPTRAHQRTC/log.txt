@@ -1,8 +1,0 @@
-2026-03-22 14:03:29,760 Running colabfold 1.6.1
-2026-03-22 14:03:29,770 WARNING: no GPU detected, will be using CPU
-2026-03-22 14:03:31,938 Found 4 citations for tools or databases
-2026-03-22 14:03:31,938 Query 1/1: RGWTLHCIPKNLYKSDRPTRAHQRTC (length 26)
-2026-03-22 14:03:32,760 Sleeping for 8s. Reason: PENDING
-2026-03-22 14:03:41,866 Sleeping for 6s. Reason: RUNNING
-2026-03-22 14:03:49,405 Saved /home/biocomp/Documents/Jazmin/results_trRosetta/msa/RGWTLHCIPKNLYKSDRPTRAHQRTC/RGWTLHCIPKNLYKSDRPTRAHQRTC.pickle
-2026-03-22 14:03:49,705 Done
